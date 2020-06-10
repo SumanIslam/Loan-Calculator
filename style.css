@@ -3,6 +3,6 @@
   margin: 0 auto;
 }
 
-#loading,#result {
+#loading, #result{
   display: none;
 }
